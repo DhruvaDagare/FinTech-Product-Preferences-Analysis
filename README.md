@@ -94,7 +94,7 @@ This repository includes:
 ![Decision Tree](graphs/decision_tree_invest.png)
 
 - Sunburst Chart
-![Sunburst Chart](graphs/sunburst.png)
+![Sunburst Chart](graphs/sunburst.PNG)
 ---
 
 ## Key Findings
