@@ -1,4 +1,4 @@
-# 📊 FinTech Product Preferences Based on Demographic Analysis
+# FinTech Product Preferences Based on Demographic Analysis
 
 ## Overview
 This project analyzes how demographic factors such as age, gender, occupation, education, and monthly income influence the adoption of FinTech products and digital payment platforms.
