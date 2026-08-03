@@ -74,16 +74,27 @@ The collected data was cleaned and transformed before analysis.
 ## Visualizations
 
 This repository includes:
-- Payment App Distribution
-- Age vs Primary Payment App Heatmap
-- Investment Product Distribution
-- Income vs Investment Analysis
-- Decision Tree Visualization
-- Sunburst Chart
-- Top Payment Applications
 
+- Top Payment Applications
 ![Top Payment Applications](graphs/top_payment_apps.png)
 
+- Age vs Primary Payment App Heatmap
+![Age vs Primary Payment App](graphs/age_vs_primary_payment.png)
+
+- Payment Frequency
+![Payment Frequency](graphs/payment_frequency.png)
+
+- Investment Product Distribution
+![Top Investment Products](graphs/top_invest_products.png)
+
+- Income vs Investment Analysis
+![Income vs FinTech Investment](graphs/income_vs_invest_using_fintech.png)
+
+- Decision Tree Visualization
+![Decision Tree](graphs/decision_tree_invest.png)
+
+- Sunburst Chart
+![Sunburst Chart](graphs/sunburst.png)
 ---
 
 ## Key Findings
